@@ -1,0 +1,7 @@
+#this is a comment
+
+*.js
+assets/videos
+*.mp4
+*.java
+!app.js
