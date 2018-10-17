@@ -5,3 +5,4 @@ assets/videos
 *.mp4
 *.java
 !app.js
+*.php
